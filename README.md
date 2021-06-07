@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, open source, programming competition and new experiences.
 - 🌱 I’m currently learning java , python3 and c++.
 - 📫 My email address is Vandressa.Soares@ccc.ufcg.edu.br
--    I’m looking to collaborate on Development in projects.
+- 😚 I’m looking to collaborate on Development in projects.
